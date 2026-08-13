@@ -1,0 +1,4 @@
+4_5670.py:113: error: Need type annotation for "trie"  [var-annotated]
+4_3080.py:81: error: Need type annotation for "trie"  [var-annotated]
+5_17408.py:149: error: "SegmentTree" expects 2 type arguments, but 1 given  [type-arg]
+Found 3 errors in 3 files (checked 10 source files)
